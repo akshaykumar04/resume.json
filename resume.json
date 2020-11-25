@@ -42,24 +42,34 @@
 		"heading": "Education",
 		"items": [
 			{
-				"degree": "Masters",
-				"endDate": "2002-08-01",
-				"field": "Computer Science",
-				"gpa": "7.2 CGPA",
+				"degree": "Integrated B.Tech + M.Tech (Dual Degree)",
+				"endDate": "2021-07-01",
+				"field": "Computer Science & Engineering",
+				"gpa": "",
 				"id": "c42e2a5a-3f0d-497e-838b-ac2019dcf045",
-				"institution": "The City College of New York, NYC, NY",
-				"startDate": "2001-09-01",
+				"institution": "Gautam Buddha University, Greater Noida",
+				"startDate": "2016-08-01",
 				"summary": ""
 			},
 			{
-				"degree": "Bachelors",
-				"endDate": "2001-08-01",
-				"field": "Computer Science",
-				"gpa": "8.4 CGPA",
+				"degree": "Intermediate",
+				"endDate": "2016-03-01",
+				"field": "PCM",
+				"gpa": "",
 				"id": "278490a2-c327-4e83-8be8-adf913a9b36c",
-				"institution": "University of California, Berkeley, CA",
-				"startDate": "1997-09-01",
+				"institution": "Padmawati Academy, Bareilly",
+				"startDate": "2015-04-01",
 				"summary": ""
+			},
+			{
+				"institution": "Brij Bhushan Lal Public School, Bareilly",
+				"field": "‎",
+				"degree": "Highschool",
+				"gpa": "",
+				"startDate": "2013-04-07",
+				"endDate": "2014-03-30",
+				"summary": "",
+				"id": "b1143078-6651-465c-a1b7-71eaeae1d589"
 			}
 		],
 		"visible": true
@@ -239,18 +249,32 @@
 		"heading": "Projects",
 		"items": [
 			{
-				"date": "2020-07-01",
+				"date": "2019-11-01",
 				"id": "c768dcca-90f5-4242-a608-6759b4f667fb",
 				"link": "https://github.com/AmruthPillai/Reactive-Resume",
 				"summary": "This app will use a smartphone camera to deploy digital AR content over the textbooks using Target-based AR tracking of Vuforia SDK. This digital content will contain, concept related videos, and 3D models of the topics. The main aim of this app to make learning more interactive and easy to understand fundamental concepts.",
-				"title": "Interactive Learning with Augmented Reality (AR)"
+				"title": "Interactive Learning with Augmented Reality (AR) - Mobile App"
 			},
 			{
-				"date": "2020-04-01",
+				"date": "2018-05-02",
 				"id": "6ca600b1-c21f-4d7b-8431-f7144d537dd3",
-				"link": "https://amruthpillai.com",
-				"summary": "Resume on the Web has been a project that I've been focused on since the early 2014s. I didn't want my information to be displayed on just a sheet of paper that only HRs or Talent Scouts had the privilege of reading, I wanted it to be accessible to everyone. And that's how this project was conceptualized.",
-				"title": "Resume on the Web"
+				"link": "https://apkpure.co/pubg-companion-com-pixelbot-pubg/",
+				"summary": "PUBG Companion - Guide for Battlegrounds had been one of the most popular apps on Google Play with over 30k+ daily users and been reviewed among the 'Best Android App in August 2018' by many Tech YouTubers, while the (Pro) version of the app has been listed among the 'Top 10' paid apps in Books and Reference category on Google Play. App's Frontend has elegant material UI with Backend completely powered by Firebase Realtime Database.\n",
+				"title": "PUBG Companion - Android App"
+			},
+			{
+				"title": "WallPicks - Android App",
+				"link": "https://apkpure.co/wallpicks-uhd-wallpapers/",
+				"date": "2017-09-26",
+				"summary": "WallPicks - UHD and 4K wallpapers, Lightweight app with Material design dashboard with Beautiful animations having a collection of 1000+ Exclusive handpicked wallpaper that you can’t find anywhere else and new wallpapers being added every day. The app featured  'Ads free' smooth UI experience with a Light and Dark theme. ",
+				"id": "968dd750-dd7e-4ccf-8393-5165ad83b4a7"
+			},
+			{
+				"title": "‎",
+				"link": "",
+				"date": "",
+				"summary": "[VIEW MORE PROJECTS](https://akshaykumar04.github.io/)",
+				"id": "9ffebf78-6d50-4dbf-baaa-7047a9e20494"
 			}
 		],
 		"visible": true
@@ -302,7 +326,7 @@
 			{
 				"id": "3a4f73b1-50c1-4a85-a4b0-2a55dfe5053a",
 				"level": "Novice",
-				"name": "Unity"
+				"name": "Tensorflow"
 			}
 		],
 		"visible": true
