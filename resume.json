@@ -117,7 +117,8 @@
 			"primary": "#00BCD4",
 			"text": "#212121"
 		},
-		"font": "Montserrat",
+		"font": "Raleway",
+		"fontSize": "8",
 		"language": "en",
 		"layout": {
 			"castform": [
@@ -240,7 +241,7 @@
 		"heading": "Profile",
 		"lastName": "Kumar",
 		"phone": "+91 8171885080",
-		"photograph": "https://akshaykumar04.github.io/img/me.jpg",
+		"photograph": "https://raw.githubusercontent.com/akshaykumar04/resume.json/main/src/cropped4.png",
 		"subtitle": "Mobile App Developer ",
 		"website": "https://akshaykumar04.github.io/"
 	},
@@ -351,18 +352,39 @@
 		"heading": "Work Experience",
 		"items": [
 			{
+				"company": "BluSmart Mobility",
+				"endDate": "",
+				"id": "deda988a-5578-44b4-b66b-f1aa8f0e4470",
+				"isVisible": true,
+				"position": "Android Developer",
+				"startDate": "2021-02-01",
+				"summary": "- Maintaining and developing advanced mobile apps as per requirements from the product team at BluSmart - India's first all-electric ride-sharing platform.\n- Translating designs wireframes into high-quality code to maintain high performance.\n- Implemented several new features, optimized the overall app performance by code optimization, and wrote Espresso unit test cases for each scenario. \n- Worked on security vulnerabilities and implemented various preventive measures.\n- Gained experience in working with MVVM architecture, Databinding, Unit Testing, Dagger2 & Kotlin Extn functions, etc. \n**BluSmart:** https://play.google.com/store/apps/details?id=com.blusmart.rider",
+				"website": "https://blu-smart.com/"
+			},
+			{
+				"company": "Fiverr Freelancer",
+				"endDate": "2020-12-12",
+				"id": "92377a39-80f9-4414-a6e6-d602b17d252b",
+				"position": "Level 2 Seller",
+				"startDate": "2020-04-12",
+				"summary": "- Developed & Deployed several Native and Cross-Platform apps using Android and Flutter for the clients.\n- Created multiple Ecommerce apps for Shopify/WooCommerce Stores using GraphQL/RESTful API using Flutter.\n- Developed multiple e-commerce and other web-based solutions for clients using WordPress CMS.\n- Gained experience in working with technologies such as Flutter, JavaScript, Dart, Kotlin, React Native, Expo, NodeJs, and WordPress.\n‎\n**SS Tech Canada:** https://www.fiverr.com/users/sstechcanada/",
+				"website": "https://www.fiverr.com/users/sstechcanada/"
+			},
+			{
 				"company": "Launchpad Learning Inc.",
 				"endDate": "2020-11-25",
 				"id": "d7c64937-0cb9-41b1-a3a6-0679c882fe63",
-				"position": " App Developer Intern",
+				"isVisible": false,
+				"position": "Web Developer Intern",
 				"startDate": "2020-04-05",
-				"summary": "- Developed & Deployed several Native and Cross-Platform apps using Android and Flutter for the clients.\n- Created an Ecommerce app for Shopify Stores using GraphQL API on Flutter.\n- Gained experience in working with technologies such as Flutter, JavaScript, Dart, Kotlin, React Native, and NodeJs.\n‎\nDespite being a remote internship because of COVID-19, it was a wonderful experience!\n**Sallah.app:** https://apps.apple.com/us/app/sallah-app/id1518449852",
+				"summary": "- I worked on their LMS system, managed and monitored all the related activities.\n- Implemented live class module, stripe payment gateway and email subscription using Mailchimp.\n- Gained experience in working with technologies such as WordPress and Elementor\n‎\nDespite being a remote internship because of COVID-19, it was a wonderful experience!\n\n**Launchpad Learning:** https://launchpadlearning.ca/",
 				"website": "https://launchpadlearning.ca/"
 			},
 			{
 				"company": "FICCI",
 				"endDate": "2020-10-25",
 				"id": "f5c5dcfe-2a60-4169-a2f1-b305355518ea",
+				"isVisible": false,
 				"position": "Web Developer Intern",
 				"startDate": "2020-08-15",
 				"summary": "- Developed the Job Fair Portal for FICCI ENCOURAGE Virtual Mega Internship Placement Drive - 2020\n- Implemented features like Live Chat, Customer Support Ticketing System, and Live Results Visualizer using PHP and Google Sheets API.\n- Gained practical exposure to technologies such as WordPress, CSS, PHP, VPS Server. \n**GBUJOBS:** https://gbujobs.com.",
@@ -374,7 +396,7 @@
 				"id": "dd935088-6fe7-4a4b-8ff5-7417c32d2add",
 				"position": "Android Developer Intern",
 				"startDate": "2019-05-28",
-				"summary": "- Developed the BluSmart Charging app using (OCPP) - Open Charge Point Protocol, it's an application protocol for communication between Electric Vehicle (EV) charging stations and a central management system (CMS), also known as the charging station network. The central management system server was developed with the ability to operate the installed smart chargers.\n-  The app was designed to communicate with the CMS and perform the transactions on the smart chargers and enabled real-time tracking of charging status of Electric Vehicle (EV) on the user's smartphone\n- Implemented Scan QR code from the app placed on the smart chargers to remotely start charging and other features like navigation to nearby smart charging stations through Google Maps APIs\n- Gained experience in working with Restful APIs and various other APIs/SDK such as Google Maps API, MapmyIndia, Firebase, and OneSignal.\n**BluSmart Charge:** https://play.google.com/store/apps/details?id=com.blusmart.charging",
+				"summary": "- Developed the BluSmart Charging app using (OCPP) - Open Charge Point Protocol, it's an application protocol for communication between Electric Vehicle (EV) charging stations and CMS. The app was designed to communicate with the CMS and perform the transactions on the smart chargers and enabled real-time tracking of charging status of Electric Vehicle (EV) on the user's smartphone.\n- Implemented Scan QR code from the app placed on the smart chargers to remotely start charging and other features like navigation to nearby smart charging stations through Google Maps APIs\n- Gained experience in working with Restful APIs and various other APIs/SDK such as Google Maps API, MapmyIndia, Firebase, and OneSignal.\n**BluSmart Charge:** https://play.google.com/store/apps/details?id=com.blusmart.charging",
 				"website": "https://blu-smart.com/"
 			}
 		],
